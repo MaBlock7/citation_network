@@ -1,0 +1,31 @@
+literature_titles = {
+    "Prompt Programming for Large Language Models: Beyond the Few-Shot Paradigm": [
+        "Findings of the 2014 Workshop on Statistical Machine Translation",
+        "GPT-3 Creative Fiction",
+        "Language models are few-shot learners",
+        "TextWorld: A Learning Environment for Text-based Games",
+        "Bert: Pre-training of deep bidirectional transformers for language understanding",
+        "Hierarchical Neural Story Generation",
+        "Multi-step Reasoning via Recurrent Dual Attention for Visual Dialog",
+        "Building AGI Using Language Models",
+        "Making Pre-trained Language Models Better Few-shot Learners",
+        "Measuring massive multitask language understanding",
+        "The Curious Case of Neural Text Degeneration",
+        "Universal language model fine-tuning for text classification",
+        "Seems to work",
+        "Teaching GPT-3 to do a brute force 'for loop' checking answers",
+        "CTRL: A Conditional Transformer Language Model for Controllable Generation",
+        "GeDi: Generative Discriminator Guided Sequence Generation",
+        "Prefix-Tuning: Optimizing Continuous Prompts for Generation",
+        "Multi-Step Inference for Reasoning Over Paragraphs",
+        "A Call for Clarity in Reporting BLEU Scores",
+        "You Can Probably Amplify GPT3 Directly",
+        "GPT-3: Using Fiction to Demonstrate How Prompts Impact Output Quality",
+        "AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts",
+        "World Creation by Analogy",
+        "Controllable Neural Text Generation",
+        "Zero-shot Learning by Generating Task-specific Adapters",
+        "Low-resource generation of multi-hop reasoning questions",
+        "Rationalization"
+    ]
+}

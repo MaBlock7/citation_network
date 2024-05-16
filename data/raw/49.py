@@ -1,0 +1,33 @@
+literature_titles = {
+    "LEAST-TO-MOST PROMPTING ENABLES COMPLEX REASONING IN LARGE LANGUAGE MODELS": [
+        "Learning to recombine and resample data for compositional generalization",
+        "Good-enough compositional data augmentation",
+        "Language models are few-shot learners",
+        "Compositional generalization via neural-symbolic stack machines",
+        "PaLM: Scaling language modeling with pathways",
+        "Training verifiers to solve math word problems",
+        "Neural logic machines",
+        "DROP: A reading comprehension benchmark requiring discrete reasoning over paragraphs",
+        "Did Aristotle Use a Laptop? A Question Answering Benchmark with Implicit Reasoning Strategies",
+        "Permutation equivariant models for compositional generalization in language",
+        "Span-based semantic parsing for compositional generalization",
+        "Measuring compositional generalization: A comprehensive method on realistic data",
+        "Sequence-to-sequence learning with latent neural grammars",
+        "Generalization without systematicity: On the compositional skills of sequence-to-sequence recurrent networks",
+        "Compositional generalization through meta sequence-to-sequence learning",
+        "Compositional generalization for primitive substitutions",
+        "A comparison of most-to-least and least-to-most prompting on the acquisition of solitary play skills",
+        "Program induction by rationale generation: Learning to solve and explain algebraic word problems",
+        "Compositional generalization by learning analytical expressions",
+        "Learning compositional rules via neural program synthesis",
+        "Unsupervised question decomposition for question answering",
+        "Compositional generalization in a deep seq2seq model by separating syntax and semantics",
+        "Can you learn an algorithm? Generalizing from easy to hard problems with recurrent networks",
+        "Compositional generalization and natural language variation: Can a semantic parsing approach handle both?",
+        "Shepherd pre-trained language models to develop a train of thought: An iterative prompting approach",
+        "Self-consistency improves chain of thought reasoning in language models",
+        "Chain of thought prompting elicits reasoning in large language models",
+        "AI chains: Transparent and controllable human-AI interaction by chaining large language model prompts",
+        "Seqzero: Few-shot compositional semantic parsing with sequential prompts and zero-shot models"
+    ]
+}

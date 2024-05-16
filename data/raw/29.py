@@ -1,0 +1,32 @@
+literature_titles = {
+    "Enhancing Large Language Models Against Inductive Instructions with Dual-critique Prompting": [
+        "Constitutional ai: Harmlessness from ai feedback",
+        "Language models are few-shot learners",
+        "Exploring the use of large language models for reference-free text quality evaluation: A preliminary empirical study",
+        "Chatgpt goes to law school",
+        "GlM: General language model pretraining with autoregressive blank infilling",
+        "Gptscore: Evaluate as you desire",
+        "The capacity for moral self-correction in large language models",
+        "The curious case of neural text degeneration",
+        "Lora: Low-rank adaptation of large language models",
+        "CHEF: A pilot Chinese dataset for evidence-based fact-checking",
+        "Will chatgpt get you caught? rethinking of plagiarism detection",
+        "(qa)2: Question answering with questionable assumptions",
+        "Which linguist invented the lightbulb? presupposition verification for question-answering",
+        "Holistic evaluation of language models",
+        "TruthfulQA: Measuring how models mimic human falsehoods",
+        "Prompt injection attack against LLM-integrated applications",
+        "Jailbreaking ChatGPT via prompt engineering: An empirical study",
+        "When not to trust language models: Investigating effectiveness and limitations of parametric and nonparametric memories",
+        "SelfCheck: Using LLMs to zero-shot check their own step-by-step reasoning",
+        "Training language models to follow instructions with human feedback",
+        "Red teaming language models with language models",
+        "Know what you don't know: Unanswerable questions for squad",
+        "Safety assessment of chinese large language models",
+        "Improving factual consistency for knowledge-grounded dialogue systems via knowledge enhancement and alignment",
+        "Crepe: Open-domain question answering with false presuppositions",
+        "GLM130b: An open bilingual pre-trained model",
+        "Judging LLM-as-a-judge with MT-bench and chatbot arena",
+        "A comprehensive survey on pretrained foundation models: A history from bert to chatgpt"
+    ]
+}

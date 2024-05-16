@@ -1,0 +1,33 @@
+literature_titles = {
+    "AUTOPROMPT: Eliciting Knowledge from Language Models with Automatically Generated Prompts": [
+        "Inducing relational knowledge from BERT",
+        "A large annotated corpus for learning natural language inference",
+        "Language models are few-shot learners",
+        "What you can cram into a single vector: Probing sentence embeddings for linguistic properties",
+        "The PASCAL recognising textual entailment challenge",
+        "BERT: pre-training of deep bidirectional transformers for language understanding",
+        "Fine-tuning pretrained language models: Weight initializations, data orders, and early stopping",
+        "T-REx: A large scale alignment of natural language with knowledge base triples",
+        "Designing and interpreting probes with control tasks",
+        "First quora dataset release: Question pairs",
+        "Attention is not explanation",
+        "How can we know what language models know?",
+        "Why do masked neural language models still need common sense knowledge?",
+        "Unsupervised question answering by cloze translation",
+        "Linguistic knowledge and transferability of contextual representations",
+        "A SICK cure for the evaluation of compositional distributional semantic models",
+        "Deep contextualized word representations",
+        "Language models as knowledge bases?",
+        "Language models are unsupervised multitask learners",
+        "Exploiting cloze questions for few-shot text classification and natural language inference",
+        "Unsupervised commonsense question answering with selftalk",
+        "Recursive deep models for semantic compositionality over a sentiment treebank",
+        "Context-aware representations for knowledge base relation extraction",
+        "A simple method for commonsense reasoning",
+        "Information-theoretic probing with minimum description length",
+        "Universal adversarial triggers for attacking and analyzing NLP",
+        "GLUE: A multi-task benchmark and analysis platform for natural language understanding",
+        "Attention is not not explanation",
+        "HuggingFace's Transformers: State-of-the-art natural language processing"
+    ]
+}
